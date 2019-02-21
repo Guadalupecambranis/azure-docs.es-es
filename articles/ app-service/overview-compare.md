@@ -23,7 +23,7 @@ ms.locfileid: "54322034"
 ---
 # <a name="azure-app-service-virtual-machines-service-fabric-and-cloud-services-comparison"></a>Comparación de Azure App Service, Virtual Machines, Service Fabric y Cloud Services
 
-Azure ofrece varias maneras de hospedar sitios web: [Azure App Service][Azure App Service], [Virtual Machines][Virtual Machines], [Service Fabric][Service Fabric] y [Cloud Services][Cloud Services]. Este artículo le ayuda a comprender las opciones y a tomar la decisión correcta para su aplicación web.
+Azure ofrece varias maneras de hospedar sitios web: [Azure App Service][Azure App Service], [Virtual Machines][Virtual Machines], [Service Fabric][Service Fabric] y [Cloud Services][Cloud Services]. Este artículo le ayuda a comprender las opciones y a tomar la decisión correcta para su aplicación web.pequeño cambio de redaccion
 
 Azure App Service es la opción más adecuada para la mayoría de aplicaciones web. La implementación y la administración están integradas en la plataforma, los sitios pueden escalarse rápidamente para asumir altas cargas de tráfico y el equilibrio de carga y el administrador de tráfico incluidos ofrecen una gran disponibilidad. Puede mover los sitios actuales a Azure App Service fácilmente con una [herramienta de migración en línea][migrate-tool], usar una aplicación de código abierto de la galería de aplicaciones web o crear un sitio usando el marco y las herramientas que prefiera. La característica [Trabajos web][WebJobs] facilita la tarea de agregar procesamiento de trabajo en segundo plano a su aplicación web de App Service.
 
