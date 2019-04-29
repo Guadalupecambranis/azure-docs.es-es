@@ -31,8 +31,8 @@ ms.locfileid: "59548134"
 Azure App Service proporciona un servicio de hospedaje web muy escalable y con aplicación de revisiones de un modo automático. En este tutorial se muestra cómo crear una aplicación Node.js en App Service y conectarla a una base de datos de MongoDB. Cuando haya terminado, tendrá una aplicación MEAN (MongoDB, Express, AngularJS y Node.js) que se ejecuta en [Azure App Service](overview.md). Por sencillez, la aplicación de ejemplo usa el [marco web MEAN.js ](https://meanjs.org/).
 
 ![Aplicación MEAN.js que se ejecuta en Azure App Service](./media/app-service-web-tutorial-nodejs-mongodb-app/meanjs-in-azure.png)
-
-Temas que se abordarán:
+temas que se abordaran
+Temas que veremos:
 
 > [!div class="checklist"]
 > * Crear una base de datos MongoDB en Azure
