@@ -31,6 +31,7 @@ Esta es la página de inicio del ejemplo del sitio HTML estático que se utiliza
 ![Página de inicio de la aplicación de ejemplo](media/cdn-add-to-web-app/sample-app-home-page.png)
 
 Temas que se abordarán:
+Temas que se veran:
 
 > [!div class="checklist"]
 > * Crear un punto de conexión de CDN.
