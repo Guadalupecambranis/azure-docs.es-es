@@ -145,6 +145,7 @@ En **Tipo de SSL**, seleccione si se va a usar **[Indicación de nombre de servi
 - **SSL basada en IP**: solo pueden agregarse enlaces SSL basados en IP. Esta opción solo permite que un único certificado SSL proteja una dirección IP dedicada. Para proteger varios dominios, debe protegerlos todos con el mismo certificado SSL. Se trata de la opción tradicional para enlaces SSL.
 
 Haga clic en **Agregar enlace**.
+hacer click en **Agregar enlace**.
 
 ![Enlazar certificado SSL](./media/app-service-web-tutorial-custom-ssl/bind-certificate.png)
 
