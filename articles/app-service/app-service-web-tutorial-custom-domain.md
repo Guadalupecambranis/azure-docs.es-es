@@ -30,6 +30,7 @@ ms.locfileid: "58486094"
 ![Navegación en el portal a la aplicación de Azure](./media/app-service-web-tutorial-custom-domain/app-with-custom-dns.png)
 
 En este tutorial, aprenderá a:
+En este tutorial , usted obtendra el conocimiento de:
 
 > [!div class="checklist"]
 > * Asignar un subdominio (por ejemplo, `www.contoso.com`) mediante el uso de un registro CNAME
